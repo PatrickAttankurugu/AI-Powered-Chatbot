@@ -36,5 +36,5 @@ the following command to test it in the console.
 ```
 $ (venv) python chat.py
 ```
-## Note
+
 
